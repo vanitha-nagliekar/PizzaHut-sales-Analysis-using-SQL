@@ -7,9 +7,9 @@ This project conducts a comprehensive analysis of sales data from Pizza Hut to u
 
 The analysis covers the following aspects:
 
-Sales Trends: Identifying patterns and trends in sales over time.
-Customer Segmentation: Analyzing customer demographics and behavior to identify key segments.
-Product Performance: Evaluating the popularity and profitability of different products.
-Category wise Analysis: Examining sales trends and preferences across different categories.
+* Sales Trends: Identifying patterns and trends in sales over time.
+* Customer Segmentation: Analyzing customer demographics and behavior to identify key segments.
+* Product Performance: Evaluating the popularity and profitability of different products.
+* Category wise Analysis: Examining sales trends and preferences across different categories.
 
 
